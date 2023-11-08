@@ -5,8 +5,8 @@ google_analytics:
 theme: jekyll-theme-cayman
 
 github:
-  home_url: https://rom-robotics.github.io/ROM-robotics
+  home_url: https://romrobots.com
   github_url: https://github.com/ROM-robotics
-  user_url: https://rom-robotics.github.io/romrobotics.repo
-  developer_url: https://rom-robotics.github.io/developer.repo
+  user_url: https://userguide.romrobots.com
+  developer_url: https://developer.romrobots.com
   contact_url: https://google.com
