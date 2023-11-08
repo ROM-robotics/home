@@ -1,0 +1,12 @@
+title: ROM ROBOTICS
+description: Open Source Robotics Community from Myanmar
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+
+github:
+  home_url: https://rom-robotics.github.io/ROM-robotics
+  github_url: https://github.com/ROM-robotics
+  user_url: https://rom-robotics.github.io/romrobotics.repo
+  developer_url: https://rom-robotics.github.io/developer.repo
+  contact_url: https://google.com

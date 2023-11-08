@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/rom_robotics.gpg] https://ROM-robotics.github.io/romrobotics.repo/dists ./

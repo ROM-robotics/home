@@ -1,0 +1,15 @@
+Package: ros-humble-rom-robot
+Version: 0.0.0-0jammy
+Architecture: amd64
+Maintainer: mr_robot <romrobotics@gmail.com>
+Installed-Size: 1066
+Depends: libc6 (>= 2.34), libconsole-bridge1.0 (>= 1.0.1+dfsg2), libgcc-s1 (>= 3.3.1), libstdc++6 (>= 11), ros-humble-geometry-msgs, ros-humble-rclcpp, ros-humble-rclcpp-components, ros-humble-std-msgs
+Filename: ./ros-humble-rom-robot_0.0.0-0jammy_amd64.deb
+Size: 170460
+MD5sum: 9e346cfa093e783de764cd827bd4c1fc
+SHA1: 7ac39c9c1f9271b73cfcb732048700093fe65120
+SHA256: 447ef5c4d5620ba399cabd4305fd8c9112c0d42f36ab2cfbacc8fd9881310d5e
+Section: misc
+Priority: optional
+Description: TODO: Package description
+
