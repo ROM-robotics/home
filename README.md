@@ -25,7 +25,7 @@
   <div class="mySlides fade">
     <div class="numbertext">4 / 6</div>
     <img src="images/DC02R_2.jpg" width="796" height="1122">
-    <div class="text">DC02R_2</div>
+    <div class="text">DC02R</div>
   </div>
 
   <div class="mySlides fade">
@@ -37,7 +37,7 @@
   <div class="mySlides fade">
     <div class="numbertext">6 / 6</div>
     <img src="images/DC03R_2.jpg" width="796" height="1122">
-    <div class="text">DC03R_2</div>
+    <div class="text">DC03R</div>
   </div>
 
   <!-- Next and previous buttons -->
@@ -51,8 +51,10 @@
   <span class="dot" onclick="currentSlide(1)"></span>
   <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
 </div>
-<img src="" />
 
 ```
 OPENSOURCE & ROS2 support
