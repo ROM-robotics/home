@@ -68,8 +68,9 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
-
-let slideIndex = 0;
+</script>
+<script>
+  let slideIndex = 0;
 showSlides();
 
 function showSlides() {
